@@ -12,7 +12,7 @@
 ![Google OAuth2](https://img.shields.io/badge/OAuth2-Google-4285F4?logo=google&logoColor=white)
 ![Groq](https://img.shields.io/badge/AI-Groq%20API-F55036?logo=lightning&logoColor=white)
 
-> A neighborhood-based community library built with **Spring Boot microservices**, **React**, **PostgreSQL**, and **AI-powered recommendations**.
+> A neighborhood-based community library built by our team using **Spring Boot microservices**, **React**, **PostgreSQL**, and **AI-powered recommendations**.
 
 The platform lets neighbors register, manage their personal book collections, lend and borrow books locally, and receive personalized reading recommendations. A dedicated notification service keeps users informed by email.
 
@@ -368,3 +368,8 @@ AI Provider     → Groq
 
 Before starting the application, make sure all required environment variables are configured and that **no real secrets are committed to the repository**.
 
+---
+
+## 🚧 Project Status
+
+This project is actively being developed by our team and is currently approaching completion. Core functionality across all services — user management, book lending, notifications, and AI recommendations — is implemented and integrated; remaining work is focused on polish, testing, and final refinements ahead of release.
